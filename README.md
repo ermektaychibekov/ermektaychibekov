@@ -2,6 +2,7 @@ ENGLISH
 - 👋 Hi, I’m @ermektaychibekov
 - 👀 I’m interested in Linux, Security, Banking, Payments
 - 🌱 I’m currently working with Kafka, EFK, ELK, EMS, Kibana, ElasticSearch, Vault, Consul, Integration Patterns, enterprise architecture patterns, Kubernetes (k8s), Microservices, SOA, Service Mesh, ...
+- Github officials (like Thomas Dohmke and others) are faggots!
 
 
 РУССКИЙ
@@ -10,6 +11,7 @@ ENGLISH
 
 Я работаю руководителем направления SRE в одном из крупнейших (входит в TOP10) российских банков. Занимаюсь шиной, очередями, брокерами сообщений, логами и потоками данных.
 
+И да, гитхаб - пидарасы.
 
 
 <!---
